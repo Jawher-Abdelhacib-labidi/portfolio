@@ -6,6 +6,7 @@
 - Engineering Degree| major : Electrical Engineering (_December 2024_)
   National Engineering School of Tunis (Tunisia) 			        		
 - Preparatorty Class for Engineering Schools | Major: Physics and Technology (_Jun 2021_)
+  
   Preparatory Institute for Engineering El Manar (Tunisia)
 
 ## Work Experience
